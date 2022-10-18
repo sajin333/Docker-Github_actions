@@ -8,6 +8,12 @@ Step 3 – Select a Github action workflow<br>
 Step 4 – Save the new Github action workflow<br>
 Step 5 – Make a change in the Dockerfile and trigger a Docker image build<br>
 
+
+![](Images/building_dockerimage_using_github_actions.png)
+
 # Pusing Docker Image to Dockerhub using Github_actions (containers.yml is used)
 Peform changes in the yml configuration file<br>
 
+
+Image pushed to Dockerhub using Github Actions
+![](Images/docker_image_pushed_github_actions.png)
