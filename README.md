@@ -17,3 +17,6 @@ Peform changes in the yml configuration file<br>
 
 Image pushed to Dockerhub using Github Actions
 ![](Images/docker_image_pushed_github_actions.png)
+
+Setting username and password
+![](Images/Dockerhub_username_password.png)
